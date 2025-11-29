@@ -1,0 +1,28 @@
+# Core scientific computing
+numpy==1.26.4
+pandas==2.2.0
+
+# Visualization
+matplotlib==3.8.0
+
+# NLP sentence splitting
+nltk==3.8.1
+
+# HuggingFace datasets and transformers
+datasets==2.19.1
+huggingface_hub==0.16.4
+fsspec==2023.5.0
+transformers==4.36.0
+
+# PyTorch (CPU version, compatible with Mac)
+torch==2.1.0
+
+# Statistical modeling
+statsmodels==0.14.0
+
+# Progress bar
+tqdm==4.66.2
+
+# Optional: CSV/Parquet support
+pyarrow==14.0.1
+
